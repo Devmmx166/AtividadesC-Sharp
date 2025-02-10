@@ -1,0 +1,14 @@
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT6\bin\Debug\net9.0\AT6.exe
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT6\bin\Debug\net9.0\AT6.deps.json
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT6\bin\Debug\net9.0\AT6.runtimeconfig.json
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT6\bin\Debug\net9.0\AT6.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT6\bin\Debug\net9.0\AT6.pdb
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT6\obj\Debug\net9.0\AT6.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT6\obj\Debug\net9.0\AT6.AssemblyInfoInputs.cache
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT6\obj\Debug\net9.0\AT6.AssemblyInfo.cs
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT6\obj\Debug\net9.0\AT6.csproj.CoreCompileInputs.cache
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT6\obj\Debug\net9.0\AT6.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT6\obj\Debug\net9.0\refint\AT6.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT6\obj\Debug\net9.0\AT6.pdb
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT6\obj\Debug\net9.0\AT6.genruntimeconfig.cache
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT6\obj\Debug\net9.0\ref\AT6.dll

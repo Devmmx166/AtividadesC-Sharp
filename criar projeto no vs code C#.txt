@@ -1,0 +1,16 @@
+ dotnet new console --use-program-main
+
+Para criar um projeto de console em C# no Visual Studio Code, pode seguir os seguintes passos: 
+Abrir o Visual Studio Code
+Selecionar a visão do Explorer
+Escolher a opção "Criar Projeto"
+Selecionar o modelo de projeto
+Escolher o local onde o projeto será criado
+Nomear o projeto
+Para criar um projeto de console em C# no Visual Studio Code, pode também: 
+Abrir o terminal do VS Code
+Digitar dotnet new console -o NomeDoMeuProjetoCSharp
+Para abrir o terminal do VS Code, pode: 
+Selecionar "Ver" no menu do VS Code
+Selecionar "Terminal"
+
