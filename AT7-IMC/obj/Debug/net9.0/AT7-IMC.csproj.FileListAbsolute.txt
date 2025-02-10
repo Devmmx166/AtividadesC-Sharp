@@ -1,0 +1,15 @@
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT7-IMC\bin\Debug\net9.0\AT7-IMC.exe
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT7-IMC\bin\Debug\net9.0\AT7-IMC.deps.json
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT7-IMC\bin\Debug\net9.0\AT7-IMC.runtimeconfig.json
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT7-IMC\bin\Debug\net9.0\AT7-IMC.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT7-IMC\bin\Debug\net9.0\AT7-IMC.pdb
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT7-IMC\obj\Debug\net9.0\AT7-IMC.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT7-IMC\obj\Debug\net9.0\AT7-IMC.AssemblyInfoInputs.cache
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT7-IMC\obj\Debug\net9.0\AT7-IMC.AssemblyInfo.cs
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT7-IMC\obj\Debug\net9.0\AT7-IMC.csproj.CoreCompileInputs.cache
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT7-IMC\obj\Debug\net9.0\AT7-IMC.sourcelink.json
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT7-IMC\obj\Debug\net9.0\AT7-IMC.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT7-IMC\obj\Debug\net9.0\refint\AT7-IMC.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT7-IMC\obj\Debug\net9.0\AT7-IMC.pdb
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT7-IMC\obj\Debug\net9.0\AT7-IMC.genruntimeconfig.cache
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT7-IMC\obj\Debug\net9.0\ref\AT7-IMC.dll

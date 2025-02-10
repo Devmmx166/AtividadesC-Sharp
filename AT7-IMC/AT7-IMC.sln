@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AT7-IMC", "AT7-IMC.csproj", "{D3CA0703-1537-A4F2-1CA8-B198D0267C63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3CA0703-1537-A4F2-1CA8-B198D0267C63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3CA0703-1537-A4F2-1CA8-B198D0267C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3CA0703-1537-A4F2-1CA8-B198D0267C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3CA0703-1537-A4F2-1CA8-B198D0267C63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D1667D3-2BD1-49B1-8480-24448AAD9DD6}
+	EndGlobalSection
+EndGlobal
