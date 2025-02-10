@@ -11,7 +11,7 @@ class Program
 
         float imc = peso / (altura * altura);
         Console.WriteLine($"Seu IMC é {imc}.");
-      
+      c
 
     }
 }

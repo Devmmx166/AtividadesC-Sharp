@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DEVHILTONJR\\Desktop\\C#Games\\AULAS\\AT8\\AT8.csproj",
-      "projectName": "AT8",
-      "projectPath": "C:\\Users\\DEVHILTONJR\\Desktop\\C#Games\\AULAS\\AT8\\AT8.csproj",
+      "projectUniqueName": "C:\\Users\\DEVHILTONJR\\Desktop\\C#Games\\AULAS\\AT6\\AT6.csproj",
+      "projectName": "AT6",
+      "projectPath": "C:\\Users\\DEVHILTONJR\\Desktop\\C#Games\\AULAS\\AT6\\AT6.csproj",
       "packagesPath": "C:\\Users\\DEVHILTONJR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DEVHILTONJR\\Desktop\\C#Games\\AULAS\\AT8\\obj\\",
+      "outputPath": "C:\\Users\\DEVHILTONJR\\Desktop\\C#Games\\AULAS\\AT6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

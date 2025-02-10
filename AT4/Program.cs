@@ -1,18 +1,16 @@
-﻿namespace AT6;
+﻿namespace AT7;
 
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Informe seu peso:");
-        float peso = float.Parse(Console.ReadLine());
+        Console.WriteLine("Informe o raio do circulo");
 
-        Console.WriteLine("Informe sua altura:");
-        float altura = float.Parse(Console.ReadLine());
+        float raio = float.Parse(Console.ReadLine());
+        float pi = 3.14159f;
 
-        float imc = peso/(altura * altura);
+        float area = pi *(raio * raio);
 
-        Console.WriteLine($"Seu imc é {imc}");
-
+        Console.WriteLine($"Area do circulo é :{area}");
     }
 }

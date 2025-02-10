@@ -1,0 +1,15 @@
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-02-Desconto\bin\Debug\net9.0\AT8-02-Desconto.exe
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-02-Desconto\bin\Debug\net9.0\AT8-02-Desconto.deps.json
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-02-Desconto\bin\Debug\net9.0\AT8-02-Desconto.runtimeconfig.json
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-02-Desconto\bin\Debug\net9.0\AT8-02-Desconto.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-02-Desconto\bin\Debug\net9.0\AT8-02-Desconto.pdb
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-02-Desconto\obj\Debug\net9.0\AT8-02-Desconto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-02-Desconto\obj\Debug\net9.0\AT8-02-Desconto.AssemblyInfoInputs.cache
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-02-Desconto\obj\Debug\net9.0\AT8-02-Desconto.AssemblyInfo.cs
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-02-Desconto\obj\Debug\net9.0\AT8-02-Desconto.csproj.CoreCompileInputs.cache
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-02-Desconto\obj\Debug\net9.0\AT8-02-Desconto.sourcelink.json
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-02-Desconto\obj\Debug\net9.0\AT8-02-Desconto.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-02-Desconto\obj\Debug\net9.0\refint\AT8-02-Desconto.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-02-Desconto\obj\Debug\net9.0\AT8-02-Desconto.pdb
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-02-Desconto\obj\Debug\net9.0\AT8-02-Desconto.genruntimeconfig.cache
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-02-Desconto\obj\Debug\net9.0\ref\AT8-02-Desconto.dll

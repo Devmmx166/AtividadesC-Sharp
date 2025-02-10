@@ -1,0 +1,15 @@
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-RaioDoCirculo\bin\Debug\net9.0\AT8-RaioDoCirculo.exe
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-RaioDoCirculo\bin\Debug\net9.0\AT8-RaioDoCirculo.deps.json
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-RaioDoCirculo\bin\Debug\net9.0\AT8-RaioDoCirculo.runtimeconfig.json
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-RaioDoCirculo\bin\Debug\net9.0\AT8-RaioDoCirculo.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-RaioDoCirculo\bin\Debug\net9.0\AT8-RaioDoCirculo.pdb
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-RaioDoCirculo\obj\Debug\net9.0\AT8-RaioDoCirculo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-RaioDoCirculo\obj\Debug\net9.0\AT8-RaioDoCirculo.AssemblyInfoInputs.cache
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-RaioDoCirculo\obj\Debug\net9.0\AT8-RaioDoCirculo.AssemblyInfo.cs
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-RaioDoCirculo\obj\Debug\net9.0\AT8-RaioDoCirculo.csproj.CoreCompileInputs.cache
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-RaioDoCirculo\obj\Debug\net9.0\AT8-RaioDoCirculo.sourcelink.json
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-RaioDoCirculo\obj\Debug\net9.0\AT8-RaioDoCirculo.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-RaioDoCirculo\obj\Debug\net9.0\refint\AT8-RaioDoCirculo.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-RaioDoCirculo\obj\Debug\net9.0\AT8-RaioDoCirculo.pdb
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-RaioDoCirculo\obj\Debug\net9.0\AT8-RaioDoCirculo.genruntimeconfig.cache
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT8-RaioDoCirculo\obj\Debug\net9.0\ref\AT8-RaioDoCirculo.dll

@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-      Console.WriteLine("Informe O valor da nota da promeira unidade: "); float nota1 = float.Parse(Console.ReadLine());
+      Console.WriteLine("Informe O valor da nota da primeira unidade: "); float nota1 = float.Parse(Console.ReadLine());
       
       Console.WriteLine("informe o valor da nota da segunda unidade: "); float nota2 = float.Parse(Console.ReadLine());
       
