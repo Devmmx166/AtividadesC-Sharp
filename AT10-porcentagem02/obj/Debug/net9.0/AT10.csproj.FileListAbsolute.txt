@@ -1,0 +1,14 @@
+c:\Users\Mariana e Hilton\Desktop\AtividadesC-Sharp-main\AT10\bin\Debug\net9.0\AT10.exe
+C:\Users\Mariana e Hilton\Desktop\AtividadesC-Sharp-main\AT10\bin\Debug\net9.0\AT10.deps.json
+C:\Users\Mariana e Hilton\Desktop\AtividadesC-Sharp-main\AT10\bin\Debug\net9.0\AT10.runtimeconfig.json
+c:\Users\Mariana e Hilton\Desktop\AtividadesC-Sharp-main\AT10\bin\Debug\net9.0\AT10.dll
+c:\Users\Mariana e Hilton\Desktop\AtividadesC-Sharp-main\AT10\bin\Debug\net9.0\AT10.pdb
+c:\Users\Mariana e Hilton\Desktop\AtividadesC-Sharp-main\AT10\obj\Debug\net9.0\AT10.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Mariana e Hilton\Desktop\AtividadesC-Sharp-main\AT10\obj\Debug\net9.0\AT10.AssemblyInfoInputs.cache
+c:\Users\Mariana e Hilton\Desktop\AtividadesC-Sharp-main\AT10\obj\Debug\net9.0\AT10.AssemblyInfo.cs
+c:\Users\Mariana e Hilton\Desktop\AtividadesC-Sharp-main\AT10\obj\Debug\net9.0\AT10.csproj.CoreCompileInputs.cache
+c:\Users\Mariana e Hilton\Desktop\AtividadesC-Sharp-main\AT10\obj\Debug\net9.0\AT10.dll
+c:\Users\Mariana e Hilton\Desktop\AtividadesC-Sharp-main\AT10\obj\Debug\net9.0\refint\AT10.dll
+c:\Users\Mariana e Hilton\Desktop\AtividadesC-Sharp-main\AT10\obj\Debug\net9.0\AT10.pdb
+C:\Users\Mariana e Hilton\Desktop\AtividadesC-Sharp-main\AT10\obj\Debug\net9.0\AT10.genruntimeconfig.cache
+C:\Users\Mariana e Hilton\Desktop\AtividadesC-Sharp-main\AT10\obj\Debug\net9.0\ref\AT10.dll
