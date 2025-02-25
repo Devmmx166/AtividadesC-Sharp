@@ -1,0 +1,15 @@
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\operadores\operadoresLogicos\bin\Debug\net9.0\operadoresLogicos.exe
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\operadores\operadoresLogicos\bin\Debug\net9.0\operadoresLogicos.deps.json
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\operadores\operadoresLogicos\bin\Debug\net9.0\operadoresLogicos.runtimeconfig.json
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\operadores\operadoresLogicos\bin\Debug\net9.0\operadoresLogicos.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\operadores\operadoresLogicos\bin\Debug\net9.0\operadoresLogicos.pdb
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\operadores\operadoresLogicos\obj\Debug\net9.0\operadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\operadores\operadoresLogicos\obj\Debug\net9.0\operadoresLogicos.AssemblyInfoInputs.cache
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\operadores\operadoresLogicos\obj\Debug\net9.0\operadoresLogicos.AssemblyInfo.cs
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\operadores\operadoresLogicos\obj\Debug\net9.0\operadoresLogicos.csproj.CoreCompileInputs.cache
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\operadores\operadoresLogicos\obj\Debug\net9.0\operadoresLogicos.sourcelink.json
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\operadores\operadoresLogicos\obj\Debug\net9.0\operadoresLogicos.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\operadores\operadoresLogicos\obj\Debug\net9.0\refint\operadoresLogicos.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\operadores\operadoresLogicos\obj\Debug\net9.0\operadoresLogicos.pdb
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\operadores\operadoresLogicos\obj\Debug\net9.0\operadoresLogicos.genruntimeconfig.cache
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\operadores\operadoresLogicos\obj\Debug\net9.0\ref\operadoresLogicos.dll

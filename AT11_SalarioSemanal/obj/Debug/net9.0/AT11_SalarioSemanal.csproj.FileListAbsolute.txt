@@ -1,0 +1,15 @@
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT11_SalarioSemanal\bin\Debug\net9.0\AT11_SalarioSemanal.exe
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT11_SalarioSemanal\bin\Debug\net9.0\AT11_SalarioSemanal.deps.json
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT11_SalarioSemanal\bin\Debug\net9.0\AT11_SalarioSemanal.runtimeconfig.json
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT11_SalarioSemanal\bin\Debug\net9.0\AT11_SalarioSemanal.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT11_SalarioSemanal\bin\Debug\net9.0\AT11_SalarioSemanal.pdb
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT11_SalarioSemanal\obj\Debug\net9.0\AT11_SalarioSemanal.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT11_SalarioSemanal\obj\Debug\net9.0\AT11_SalarioSemanal.AssemblyInfoInputs.cache
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT11_SalarioSemanal\obj\Debug\net9.0\AT11_SalarioSemanal.AssemblyInfo.cs
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT11_SalarioSemanal\obj\Debug\net9.0\AT11_SalarioSemanal.csproj.CoreCompileInputs.cache
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT11_SalarioSemanal\obj\Debug\net9.0\AT11_SalarioSemanal.sourcelink.json
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT11_SalarioSemanal\obj\Debug\net9.0\AT11_SalarioSemanal.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT11_SalarioSemanal\obj\Debug\net9.0\refint\AT11_SalarioSemanal.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT11_SalarioSemanal\obj\Debug\net9.0\AT11_SalarioSemanal.pdb
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT11_SalarioSemanal\obj\Debug\net9.0\AT11_SalarioSemanal.genruntimeconfig.cache
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT11_SalarioSemanal\obj\Debug\net9.0\ref\AT11_SalarioSemanal.dll

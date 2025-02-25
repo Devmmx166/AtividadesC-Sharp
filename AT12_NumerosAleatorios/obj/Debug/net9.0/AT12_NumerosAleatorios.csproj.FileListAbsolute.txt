@@ -1,0 +1,15 @@
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT12_NumerosAleatorios\bin\Debug\net9.0\AT12_NumerosAleatorios.exe
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT12_NumerosAleatorios\bin\Debug\net9.0\AT12_NumerosAleatorios.deps.json
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT12_NumerosAleatorios\bin\Debug\net9.0\AT12_NumerosAleatorios.runtimeconfig.json
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT12_NumerosAleatorios\bin\Debug\net9.0\AT12_NumerosAleatorios.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT12_NumerosAleatorios\bin\Debug\net9.0\AT12_NumerosAleatorios.pdb
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT12_NumerosAleatorios\obj\Debug\net9.0\AT12_NumerosAleatorios.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT12_NumerosAleatorios\obj\Debug\net9.0\AT12_NumerosAleatorios.AssemblyInfoInputs.cache
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT12_NumerosAleatorios\obj\Debug\net9.0\AT12_NumerosAleatorios.AssemblyInfo.cs
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT12_NumerosAleatorios\obj\Debug\net9.0\AT12_NumerosAleatorios.csproj.CoreCompileInputs.cache
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT12_NumerosAleatorios\obj\Debug\net9.0\AT12_NumerosAleatorios.sourcelink.json
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT12_NumerosAleatorios\obj\Debug\net9.0\AT12_NumerosAleatorios.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT12_NumerosAleatorios\obj\Debug\net9.0\refint\AT12_NumerosAleatorios.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT12_NumerosAleatorios\obj\Debug\net9.0\AT12_NumerosAleatorios.pdb
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT12_NumerosAleatorios\obj\Debug\net9.0\AT12_NumerosAleatorios.genruntimeconfig.cache
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT12_NumerosAleatorios\obj\Debug\net9.0\ref\AT12_NumerosAleatorios.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AT14_Incremeto_Decremeto/1.0.0": {
+        "runtime": {
+          "AT14_Incremeto_Decremeto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AT14_Incremeto_Decremeto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT15_RaizQuadrada\bin\Debug\net9.0\AT15_RaizQuadrada.exe
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT15_RaizQuadrada\bin\Debug\net9.0\AT15_RaizQuadrada.deps.json
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT15_RaizQuadrada\bin\Debug\net9.0\AT15_RaizQuadrada.runtimeconfig.json
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT15_RaizQuadrada\bin\Debug\net9.0\AT15_RaizQuadrada.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT15_RaizQuadrada\bin\Debug\net9.0\AT15_RaizQuadrada.pdb
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT15_RaizQuadrada\obj\Debug\net9.0\AT15_RaizQuadrada.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT15_RaizQuadrada\obj\Debug\net9.0\AT15_RaizQuadrada.AssemblyInfoInputs.cache
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT15_RaizQuadrada\obj\Debug\net9.0\AT15_RaizQuadrada.AssemblyInfo.cs
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT15_RaizQuadrada\obj\Debug\net9.0\AT15_RaizQuadrada.csproj.CoreCompileInputs.cache
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT15_RaizQuadrada\obj\Debug\net9.0\AT15_RaizQuadrada.sourcelink.json
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT15_RaizQuadrada\obj\Debug\net9.0\AT15_RaizQuadrada.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT15_RaizQuadrada\obj\Debug\net9.0\refint\AT15_RaizQuadrada.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT15_RaizQuadrada\obj\Debug\net9.0\AT15_RaizQuadrada.pdb
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT15_RaizQuadrada\obj\Debug\net9.0\AT15_RaizQuadrada.genruntimeconfig.cache
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT15_RaizQuadrada\obj\Debug\net9.0\ref\AT15_RaizQuadrada.dll
