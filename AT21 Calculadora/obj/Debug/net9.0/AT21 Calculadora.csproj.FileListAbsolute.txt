@@ -1,0 +1,15 @@
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT21 Calculadora\bin\Debug\net9.0\AT21 Calculadora.exe
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT21 Calculadora\bin\Debug\net9.0\AT21 Calculadora.deps.json
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT21 Calculadora\bin\Debug\net9.0\AT21 Calculadora.runtimeconfig.json
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT21 Calculadora\bin\Debug\net9.0\AT21 Calculadora.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT21 Calculadora\bin\Debug\net9.0\AT21 Calculadora.pdb
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT21 Calculadora\obj\Debug\net9.0\AT21 Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT21 Calculadora\obj\Debug\net9.0\AT21 Calculadora.AssemblyInfoInputs.cache
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT21 Calculadora\obj\Debug\net9.0\AT21 Calculadora.AssemblyInfo.cs
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT21 Calculadora\obj\Debug\net9.0\AT21 Calculadora.csproj.CoreCompileInputs.cache
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT21 Calculadora\obj\Debug\net9.0\AT21 Calculadora.sourcelink.json
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT21 Calculadora\obj\Debug\net9.0\AT21 Calculadora.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT21 Calculadora\obj\Debug\net9.0\refint\AT21 Calculadora.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT21 Calculadora\obj\Debug\net9.0\AT21 Calculadora.pdb
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT21 Calculadora\obj\Debug\net9.0\AT21 Calculadora.genruntimeconfig.cache
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT21 Calculadora\obj\Debug\net9.0\ref\AT21 Calculadora.dll

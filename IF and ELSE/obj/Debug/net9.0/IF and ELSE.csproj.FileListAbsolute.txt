@@ -1,0 +1,15 @@
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\IF and ELSE\bin\Debug\net9.0\IF and ELSE.exe
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\IF and ELSE\bin\Debug\net9.0\IF and ELSE.deps.json
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\IF and ELSE\bin\Debug\net9.0\IF and ELSE.runtimeconfig.json
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\IF and ELSE\bin\Debug\net9.0\IF and ELSE.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\IF and ELSE\bin\Debug\net9.0\IF and ELSE.pdb
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\IF and ELSE\obj\Debug\net9.0\IF and ELSE.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\IF and ELSE\obj\Debug\net9.0\IF and ELSE.AssemblyInfoInputs.cache
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\IF and ELSE\obj\Debug\net9.0\IF and ELSE.AssemblyInfo.cs
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\IF and ELSE\obj\Debug\net9.0\IF and ELSE.csproj.CoreCompileInputs.cache
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\IF and ELSE\obj\Debug\net9.0\IF and ELSE.sourcelink.json
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\IF and ELSE\obj\Debug\net9.0\IF and ELSE.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\IF and ELSE\obj\Debug\net9.0\refint\IF and ELSE.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\IF and ELSE\obj\Debug\net9.0\IF and ELSE.pdb
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\IF and ELSE\obj\Debug\net9.0\IF and ELSE.genruntimeconfig.cache
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\IF and ELSE\obj\Debug\net9.0\ref\IF and ELSE.dll
