@@ -1,0 +1,15 @@
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT23 Ingresso\bin\Debug\net9.0\AT23 Ingresso.exe
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT23 Ingresso\bin\Debug\net9.0\AT23 Ingresso.deps.json
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT23 Ingresso\bin\Debug\net9.0\AT23 Ingresso.runtimeconfig.json
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT23 Ingresso\bin\Debug\net9.0\AT23 Ingresso.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT23 Ingresso\bin\Debug\net9.0\AT23 Ingresso.pdb
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT23 Ingresso\obj\Debug\net9.0\AT23 Ingresso.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT23 Ingresso\obj\Debug\net9.0\AT23 Ingresso.AssemblyInfoInputs.cache
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT23 Ingresso\obj\Debug\net9.0\AT23 Ingresso.AssemblyInfo.cs
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT23 Ingresso\obj\Debug\net9.0\AT23 Ingresso.csproj.CoreCompileInputs.cache
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT23 Ingresso\obj\Debug\net9.0\AT23 Ingresso.sourcelink.json
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT23 Ingresso\obj\Debug\net9.0\AT23 Ingresso.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT23 Ingresso\obj\Debug\net9.0\refint\AT23 Ingresso.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT23 Ingresso\obj\Debug\net9.0\AT23 Ingresso.pdb
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT23 Ingresso\obj\Debug\net9.0\AT23 Ingresso.genruntimeconfig.cache
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT23 Ingresso\obj\Debug\net9.0\ref\AT23 Ingresso.dll
