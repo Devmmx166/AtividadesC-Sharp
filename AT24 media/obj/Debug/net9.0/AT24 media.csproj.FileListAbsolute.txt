@@ -1,0 +1,15 @@
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT24 media\bin\Debug\net9.0\AT24 media.exe
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT24 media\bin\Debug\net9.0\AT24 media.deps.json
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT24 media\bin\Debug\net9.0\AT24 media.runtimeconfig.json
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT24 media\bin\Debug\net9.0\AT24 media.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT24 media\bin\Debug\net9.0\AT24 media.pdb
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT24 media\obj\Debug\net9.0\AT24 media.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT24 media\obj\Debug\net9.0\AT24 media.AssemblyInfoInputs.cache
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT24 media\obj\Debug\net9.0\AT24 media.AssemblyInfo.cs
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT24 media\obj\Debug\net9.0\AT24 media.csproj.CoreCompileInputs.cache
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT24 media\obj\Debug\net9.0\AT24 media.sourcelink.json
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT24 media\obj\Debug\net9.0\AT24 media.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT24 media\obj\Debug\net9.0\refint\AT24 media.dll
+c:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT24 media\obj\Debug\net9.0\AT24 media.pdb
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT24 media\obj\Debug\net9.0\AT24 media.genruntimeconfig.cache
+C:\Users\DEVHILTONJR\Desktop\C#Games\AULAS\AT24 media\obj\Debug\net9.0\ref\AT24 media.dll
